@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialWorthProcessor", "EssentialWorthProcessor.csproj", "{B7F7627F-0A24-40E3-86AB-6A0AE248A925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F7627F-0A24-40E3-86AB-6A0AE248A925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F7627F-0A24-40E3-86AB-6A0AE248A925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F7627F-0A24-40E3-86AB-6A0AE248A925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F7627F-0A24-40E3-86AB-6A0AE248A925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A439059-F9A0-4EC2-9578-ABBF4CC89C60}
+	EndGlobalSection
+EndGlobal
